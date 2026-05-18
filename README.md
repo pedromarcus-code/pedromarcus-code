@@ -2,17 +2,19 @@
 
 **pedromarcus-code/pedromarcus-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Olá! Eu sou Pedro Marcus Silva Araújo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## Meios de Contato
+ Atualmente estou trabalhando em projetos de programação em lógica computacional e atividades acadêmicas relacionadas à tecnologia e ciência.
+
+ Atualmente estou aprendendo desenvolvimento de software, estruturas de dados e conceitos de inteligência artificial.
+
+ Estou procurando oportunidades de colaboração em projetos de programação, automação, análise de dados e desenvolvimento de aplicações.
+
+ Preciso de ajuda com algoritmos mais avançados, boas práticas de programação e projetos de código aberto.
+
+ Pergunte-me sobre lógica de programação, tecnologia, inteligência artificial e ciência.
+
+ Como me contatar: pedromarcus@email.com (Ou nos links abaixo)
 <div align="center">
 
   <div> 
