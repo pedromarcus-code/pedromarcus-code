@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
     <a<a href="https://mail.google.com/mail/?view=cm&to=victorsantosbarcelos@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/barcelos_9" target="_blank">
+  <a href="https://www.instagram.com/peedromarcus?igsh=YXl4MG53b2RuYXdq" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
