@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   <div> 
-     <a href="https://www.linkedin.com/in/victor-barcelos-1381ba17b" target="_blank">
+     <a href="www.linkedin.com/in/pedro-marcus-07171140b" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
     <a<a href="https://mail.google.com/mail/?view=cm&to=victorsantosbarcelos@gmail.com" target="_blank">
